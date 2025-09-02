@@ -1,0 +1,3 @@
+This is a sample text file.
+
+It contains some introductory information about Python programming language and it contains some basic concepts like variables, data types, and control structures.

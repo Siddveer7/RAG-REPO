@@ -1,0 +1,26 @@
+{
+    "product": "Laptop",
+    "price": 799.99,
+    "inStock": true,
+    "specifications": {
+        "brand": "TechBrand",
+        "model": "X123",
+        "features": [
+            "Touchscreen",
+            "8GB RAM",
+            "256GB SSD"
+        ]
+    },
+    "reviews": [
+        {
+            "user": "Alice",
+            "rating": 5,
+            "comment": "Excellent product!"
+        },
+        {
+            "user": "Bob",
+            "rating": 4,
+            "comment": "Good value for money."
+        }
+    ]
+}
