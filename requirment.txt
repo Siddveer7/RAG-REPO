@@ -20,3 +20,8 @@ matplotlib
 langchain-huggingface
 sentence-transformers
 langchain-openai
+chromadb
+faiss-cpu
+hf-xet
+langchain-experimental
+rank-bm25

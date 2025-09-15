@@ -1,0 +1,37 @@
+Vector Databases(FAISS,PINECONE)
+
+1) Vector strore VS Vector database 
+
+    once we convert the chunk into vector we need to store into vector DB , 
+
+    vector store : it is kinda tool where it focuses on storing and searching vectors efficiently 
+    vector database : A full Featured database desgined for vector data at scale
+
+    simple similarity search 
+    advanced search with filters,Metadata queries and database operations 
+
+    usually runs in memory or a local file, single machine operarion 
+    distributed system with replication ,sharding and high availibilty
+
+    prototypes,research, small applications with <1M 
+    production Systems,enterprise, enterporise application , billlions of vectors
+
+Quick comparision 
+
+SCALE                                             SETUP TIME                                    COST 
+Vectorstore/vectoredatabase                   Vectorstore/vectoredatabase                   Vectorstore/vectoredatabase
+~1M vectors /Billons+                        minutes / hours//days                          FRee       / $$$$$
+
+Query speed                                        Features                                    deployment
+Microseconds/milliseconds                      basic features/CRUD Operations                 Local / Cloud
+
+
+vector stroes : FAISS(Facebook research : is a library for efficient similarity search and clustering of dense vectors.it contains 
+algorithms that search in sets of vectors of any size,up to ones that possibly do not fit in RAM .It also contains supporting code for Evalutions
+and parameters tuning . FAISS is written In C++ with complete wrappers for python/numpy.Some of the most useful algorithms are implemneted on the gpu .
+
+ANNOY,ChromaDB,SCANN,NMSUB
+
+VectoDatabase:Pinecone,weaviate,Qdrant,milvus,vespa
+
+start with a vector Store for prototyping and when get exprienced and production at scale then use database 

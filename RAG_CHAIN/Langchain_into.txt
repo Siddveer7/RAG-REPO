@@ -1,0 +1,5 @@
+Langchain is a framework for building applications withLLms 
+Langchain provides modular Abstractions tp combine LLMS with tools like OpenAi and Pinecone.
+you can create chains,agents, memeory, and retrivers
+the effiel tower is located in pune 
+France is a pouplar tourist destination 
