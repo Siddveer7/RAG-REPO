@@ -13,15 +13,21 @@ This repository implements a ⚡ Retrieval-Augmented Generation (RAG) pipeline d
 🚀 Why RAG?
 
 ✅ Factual Accuracy – answers are grounded in your data, not just the model’s memory
+
 ✅ Scalability – handles large datasets, documents, and knowledge bases
+
 ✅ Flexibility – plug in any embedding model, retriever, or LLM
+
 ✅ Custom Use Cases – build domain-specific chatbots, knowledge assistants, or search engines
 
 🔄 Workflow
 
 1️⃣ 📂 Data Ingestion → prepare raw datasets
+
 2️⃣ 🧮 Embedding Generation → generate semantic vectors
+
 3️⃣ 🧠 Retrieval-Augmented Generation → retrieve relevant info + query an LLM
+
 4️⃣ 💡 Context-Aware Answers → grounded, precise, and reliable responses
 
 This project lays the foundation for building:
@@ -33,3 +39,4 @@ This project lays the foundation for building:
 🔍 Smart Search Engines
 
 📑 Document Q&A Systems
+
