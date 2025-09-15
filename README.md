@@ -1,4 +1,4 @@
-##📚 Retrieval-Augmented Generation (RAG) Pipeline
+📚 Retrieval-Augmented Generation (RAG) Pipeline
 
 This repository implements a ⚡ Retrieval-Augmented Generation (RAG) pipeline designed to work with unstructured data and transform it into intelligent, context-aware responses.
 
@@ -39,5 +39,6 @@ This project lays the foundation for building:
 🔍 Smart Search Engines
 
 📑 Document Q&A Systems
+
 
 
